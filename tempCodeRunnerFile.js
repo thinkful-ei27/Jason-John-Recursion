@@ -1,0 +1,1 @@
+return [str.slice(0, str.indexOf(sep)), ...stringSplitter(str.indexOf(sep), sep)];
